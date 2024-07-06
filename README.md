@@ -2,7 +2,7 @@
 
 This Car Rental System project is developed using core Java and Object-Oriented Programming (OOP) concepts.
 
-![Car Rental System](image.png)
+![Car Rental System](https://github.com/banusriprakash/CarRentalSystem/blob/main/CarRentalSystem.png)
 
 ## Key Features
 
