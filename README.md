@@ -1,33 +1,34 @@
 # Car Rental System
 
+This Car Rental System project is developed using core Java and Object-Oriented Programming (OOP) concepts.
+
 ![Car Rental System](https://github.com/banusriprakash/CarRentalSystem/blob/main/CarRentalSystem/image.png)
 
-This project is a comprehensive Car Rental System designed to manage the rental process efficiently. Key features include:
+## Key Features
 
 1. **User Management**:
-   - **Registration and Authentication**: Secure user registration and login system.
-   - **Profile Management**: Users can update their personal details.
+   - **Registration and Login**: Users can create an account and log in.
+   - **Profile Management**: Users can view and update their profile information.
 
 2. **Car Inventory**:
-   - **Car Listings**: Display a variety of cars available for rent.
-   - **Detailed Information**: Each car listing includes specifications, rental rates, and availability.
+   - **List of Cars**: Displays a list of cars available for rent with details like model, brand, and rental rates.
+   - **Add/Remove Cars**: Admins can add or remove cars from the inventory.
 
 3. **Booking System**:
-   - **Reservation**: Users can book cars for specific dates.
-   - **Real-time Availability**: Ensures that the car is available for the selected dates.
+   - **Reserve a Car**: Users can book cars for specific dates.
+   - **Check Availability**: Ensure the selected car is available for the desired dates.
 
-4. **Payment Integration**:
-   - **Secure Payments**: Integrates payment gateways for secure transactions.
-   - **Invoice Generation**: Provides detailed invoices post-booking.
+4. **Payment**:
+   - **Process Payment**: Facilitates payment for car rentals.
+   - **Generate Invoice**: Provides an invoice after successful booking and payment.
 
-5. **Admin Panel**:
-   - **Manage Users**: Admins can view and manage user accounts.
-   - **Manage Cars**: Add, update, or remove cars from the inventory.
-   - **View Bookings**: Monitor all the bookings made in the system.
+## Technologies Used
 
-6. **Technologies Used**:
-   - **Frontend**: Built with HTML, CSS, and JavaScript for a responsive user interface.
-   - **Backend**: Powered by a robust server-side framework (e.g., Node.js, Django).
-   - **Database**: Uses a relational database (e.g., MySQL, PostgreSQL) to store user, car, and booking information.
+- **Core Java**: The entire application is developed using core Java.
+- **OOP Concepts**: Utilizes OOP principles such as inheritance, polymorphism, encapsulation, and abstraction to create a modular and maintainable codebase.
 
-Check out the project on [GitHub](https://github.com/banusriprakash/CarRentalSystem/tree/main/CarRentalSystem) for more details and to contribute.
+## How to Run
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/banusriprakash/CarRentalSystem
